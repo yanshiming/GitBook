@@ -11,7 +11,7 @@
     },
     "links": {
         "sidebar": {
-            "Home": "http://localhost:4000"
+            "Home": "http://gitbook.bcwlcm.cn"
         }
     },
     "plugins": [
@@ -96,7 +96,7 @@
            ]
        },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © yansm.com 2018",
+            "copyright": "Copyright © bcwlcm.cn 2018",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -108,11 +108,11 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/zhangjikai/gitbook-use/edit/master",
+            "base": "https://github.com/yanshiming/GitBook/edit/master/WorkBook",
             "label": "Edit This Page"
         },
         "sitemap-general": {
-            "prefix": "http://gitbook.yansm.com"
+            "prefix": "http://gitbook.bcwlcm.cn"
         },
         "anchor-navigation-ex": {
             "isRewritePageTitle": false,
@@ -135,11 +135,11 @@
         "versions": {
             "options": [
                 {
-                    "value": "http://gitbook.yansm.com",
+                    "value": "http://gitbook.bcwlcm.cn",
                     "text": "v3.2.3"
                 },
                 {
-                    "value": "http://gitbook.yansm.com/v2/",
+                    "value": "http://gitbook.bcwlcm.cn/v2/",
                     "text": "v2.6.4"
                 }
             ]
