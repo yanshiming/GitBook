@@ -24,6 +24,7 @@
     * [Multi](Data/Multi-tools.md)
         * [Gitbook](Data/Gitbook.md)
         * [Nodejs](Data/Nodejs.md)
+        * [Git](Data/Git.md)
     * [Linux](Data/Linux-tools.md)
         * [ar](Data/ar.md)
         * [bunzip2](Data/bunzip2.md)
